@@ -2,8 +2,7 @@ package JavaD1;
 import java.util.Scanner;
 
 public class Day2Assign_EmployeeSalary {
-	
-	int empBSalary, empBOA, empBonus ;
+		int empBSalary, empBOA, empBonus ;
 	double pfAmount, empYearlyGross, empYearlyTax, empMonthlyTax, empMonthlyTakeHomeSalary, empMonthlyGross;
 	Scanner sc = new Scanner(System.in);
 
